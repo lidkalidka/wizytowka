@@ -5,7 +5,8 @@ This is my portfolio site which I will link my other sites to.
 
 ## Technologies
 HTML5
-CSS3 (include CSS Grid)
+CSS3 (including CSS Grid)
+RWD (Media Queries)
 Java Script
 
 ## Status
