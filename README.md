@@ -11,3 +11,6 @@ Java Script
 
 ## Status
 I would like to add  links to my other projects.
+
+## Contact
+Created by Lidka G. lidkadev@gmail.com
